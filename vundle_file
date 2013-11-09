@@ -1,0 +1,24 @@
+" let Vundle manage Vundle
+" required vundles 
+Bundle 'gmarik/vundle'
+
+Bundle 'tpope/vim-rails'
+Bundle 'tpope/vim-surround'
+Bundle 'scrooloose/nerdtree'
+Bundle 'scrooloose/nerdcommenter'
+Bundle 'nelstrom/vim-blackboard'
+
+Bundle 'KimiGao/better-snipmate-snippet'
+Bundle 'taglist.vim'
+Bundle 'corntrace/bufexplorer'
+Bundle 'AutoClose'
+Bundle 'ctrlp.vim'
+" Bundle 'Command-T'
+Bundle 'ack.vim'
+Bundle 'suan/vim-instant-markdown'
+Bundle 'tpope/vim-fugitive'
+Bundle 'Lokaltog/vim-powerline'
+Bundle 'nelstrom/vim-markdown-preview'
+Bundle 'mattn/zencoding-vim'
+Bundle 'bling/vim-airline'
+Bundle 'vim-ruby/vim-ruby'
